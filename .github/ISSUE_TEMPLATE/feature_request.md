@@ -7,14 +7,21 @@ assignees: ''
 
 ---
 
-**Is your feature request related to a problem? Please describe.**
-A clear and concise description of what the problem is. Ex. I'm always frustrated when [...]
+# New Feature: [Feature Title]
 
-**Describe the solution you'd like**
-A clear and concise description of what you want to happen.
+## Overview
+Describe what the feature is and why it’s important.
 
-**Describe alternatives you've considered**
-A clear and concise description of any alternative solutions or features you've considered.
+## Benefits
+- What problems does this feature solve?
+- How does it enhance the user experience?
 
-**Additional context**
-Add any other context or screenshots about the feature request here.
+## Requirements
+- [ ] List any new dependencies or libraries needed.
+- [ ] Are there any specific UI/UX guidelines to follow?
+
+## Example Usage
+Provide a quick example or scenario of how the feature will be used.
+
+## Related Issues
+Link any related issues or feature requests here.
